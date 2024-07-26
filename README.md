@@ -1,1 +1,1 @@
-# customerdata
+# CodeClause_customer-segment-prediction
